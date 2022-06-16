@@ -15,7 +15,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Machine Learning.
 
-- :zap: In my free time, I read tech articles and listen to music <img src="https://media.giphy.com/media/lqSDx8SI1916ysr4eq/giphy.gif" width="30" >
+- :zap: In my free time, I read tech articles and listen to music <img src="https://media.giphy.com/media/lqSDx8SI1916ysr4eq/giphy.gif" width="40" >
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-gandhi-5541b96a)
 
