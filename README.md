@@ -5,9 +5,6 @@
 </div>
 
 
-
-
-
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend currently for building web applications.
@@ -16,7 +13,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I read tech articles and listen to music <img src="https://media.giphy.com/media/lqSDx8SI1916ysr4eq/giphy.gif" width="40" >
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-gandhi-5541b96a)
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/prashant-gandhi-5541b96a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantGandhi" height="30" width="40" /></a>
+<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-gandhi-5541b96a) -->
 
 <hr></hr>
 
