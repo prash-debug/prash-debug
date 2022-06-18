@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/prashant-gandhi-5541b96a">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/prashant-gandhi-5541b96a">
+      <img src="https://www.instagram.com/brain_dead.17/" alt="Instagram Badge"/>
+    </a>
      </div>
 </div>
 
