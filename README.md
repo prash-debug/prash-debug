@@ -59,4 +59,4 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prash-debug&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prash-debug&layout=compact&theme=vision-friendly-dark)
