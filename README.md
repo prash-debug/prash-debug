@@ -2,6 +2,10 @@
 
 <div align="center" width="50">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/prashant-gandhi-5541b96a">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 </div>
 
 
@@ -14,7 +18,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: In my free time, I read tech articles and listen to music <img src="https://media.giphy.com/media/lqSDx8SI1916ysr4eq/giphy.gif" width="40" >
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/prashant-gandhi-5541b96a" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantGandhi" height="20" width="20" /></a>
-<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-gandhi-5541b96a) -->
+
 
 <hr></hr>
 
