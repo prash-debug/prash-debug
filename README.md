@@ -21,7 +21,6 @@ I am a Data Engineer at ZS and a former Front End Developer at Publicis Sapient 
 - :telescope: Currently, I hold an expertise in ETL processes, data modeling, data profiling and designing efficient data solutions. My passion to deliver impactful results is what keeps me going at my job. 
 
 - :seedling: Exploring Deep Learning.
-
 - :zap: In my free time, I read tech articles and listen to music <img src="https://media.giphy.com/media/lqSDx8SI1916ysr4eq/giphy.gif" width="40" >
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/prashant-gandhi-5541b96a" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantGandhi" height="20" width="20" /></a>
