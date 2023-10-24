@@ -17,7 +17,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Engineer at ZS and a former Front End Developer at Publicis Sapient <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend currently by building web applications.
 
 - :seedling: Exploring Machine Learning.
