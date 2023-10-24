@@ -18,9 +18,9 @@
 
 ### :man_technologist: About Me :
 I am a Data Engineer at ZS and a former Front End Developer at Publicis Sapient <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend currently by building web applications.
+- :telescope: Currently, I hold an expertise in ETL processes, data modeling, data profiling and designing efficient data solutions. My passion to deliver impactful results is what keeps me going at my job. 
 
-- :seedling: Exploring Machine Learning.
+- :seedling: Exploring Deep Learning.
 
 - :zap: In my free time, I read tech articles and listen to music <img src="https://media.giphy.com/media/lqSDx8SI1916ysr4eq/giphy.gif" width="40" >
 
